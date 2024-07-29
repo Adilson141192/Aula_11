@@ -1,7 +1,6 @@
 
 header p {
     color: #ffffff;
-    font-weight: 600;
 }
 
 h1 {
@@ -14,4 +13,10 @@ h2 {
     text-transform: uppercase;
     color: #303030;
     font-weight: 600;
+}
+
+.carousel-caption h5 {
+    font-size:  88px;
+    color: #ffc107;
+    text-shadow: 2px 2px 2px black;
 }
